@@ -4,4 +4,4 @@
 
 # Project 2 (ECOMM Sales Dashboard using Tableau)
 🔗**Link**: https://public.tableau.com/views/DAInternship/LandingPage?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link \
-![ECOMM Dashboard View](Sales Overview image.PNG)
+![ECOMM Dashboard View](Sales%20Overview%20image.PNG)
